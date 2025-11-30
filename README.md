@@ -9,14 +9,14 @@ My main interests include modern JavaScript frameworks, backend development, and
 - Strong background working in **Linux environments**
 - Portfolio: [haroun-trabelsi.github.io](https://haroun-trabelsi.github.io/)
 - GitHub: [github.com/haroun-trabelsi](https://github.com/haroun-trabelsi)
-- Contact: **fantasycrit20@gmail.com**
+- Contact: **harountrabelsi12@gmail.com**
 
 ---
 
 ### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/harountrabelsi1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://github.com/haroun-trabelsi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
