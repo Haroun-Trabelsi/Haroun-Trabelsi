@@ -7,15 +7,6 @@ Building reliable and maintainable web applications with a focus on performance,
 
 ---
 
-### Metrics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haroun-trabelsi&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=haroun-trabelsi&theme=dark" />
-</p>
-
----
-
 ### Stack
 
 <p align="center">
@@ -50,6 +41,15 @@ Building reliable and maintainable web applications with a focus on performance,
 - Backend systems and APIs  
 - Linux-based development environments  
 - Building and maintaining scalable web services  
+
+---
+
+### Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haroun-trabelsi&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=haroun-trabelsi&theme=dark" />
+</p>
 
 ---
 
