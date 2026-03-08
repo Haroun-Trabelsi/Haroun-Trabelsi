@@ -1,5 +1,5 @@
 <h1 align="center">Haroun Trabelsi</h1>
-<h3 align="center">Mid-Level Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
 Building reliable and maintainable web applications with a focus on performance, scalability, and clean architecture.
