@@ -10,7 +10,8 @@ Building reliable and maintainable web applications with a focus on performance,
 ### Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroun-trabelsi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haroun-trabelsi&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=haroun-trabelsi&theme=dark" />
 </p>
 
 ---
