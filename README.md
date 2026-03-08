@@ -1,3 +1,5 @@
+
+test : <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
 <h1 align="center">Haroun Trabelsi</h1>
 <h3 align="center">Software Engineer | Web Development & Systems</h3>
 
