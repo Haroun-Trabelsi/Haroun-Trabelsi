@@ -1,5 +1,4 @@
 
-test : <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
 <h1 align="center">Haroun Trabelsi</h1>
 <h3 align="center">Software Engineer | Web Development & Systems</h3>
 
@@ -82,6 +81,12 @@ My main interests include modern JavaScript frameworks, backend development, and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
 </p>
+
+---
+---
+
+### Preferred Daily Driver
+<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white">
 
 ---
 
